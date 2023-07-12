@@ -1,0 +1,11 @@
+{
+  "users": [{ "id": 1, "name": "Emanuel Dias" }],
+  "branch_offices": [
+    { "id": 1, "name": "Brazil", "currency": "Real" },
+    { "id": 1, "name": "Argentina", "currency": "Peso" },
+    { "id": 1, "name": "Chile", "currency": "Peso" },
+    { "id": 1, "name": "Bolivia", "currency": "Boliviano" },
+    { "id": 1, "name": "French Guiana", "currency": "Euro" },
+    { "id": 1, "name": "Venezuela", "currency": "Bolivar" }
+  ]
+}
